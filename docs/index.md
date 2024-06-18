@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "TuwNguyen Docs"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: alt
+      text: AWS Guide
+      link: /aws-guide/
 
 features:
   - title: Feature A
