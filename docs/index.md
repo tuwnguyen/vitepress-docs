@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: AWS Guide
       link: /aws-guide/
+    - theme: alt
+      text: K8S Guide
+      link: /k8s-guide/
 
 features:
   - title: Feature A
