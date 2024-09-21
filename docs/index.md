@@ -19,6 +19,12 @@ hero:
     - theme: alt
       text: K8S Guide
       link: /k8s-guide/
+    - theme: alt
+      text: GCP Guide
+      link: /gcp-guide/
+    - theme: alt
+      text: MS Ticketing App
+      link: /ms-ticketing-app/
 
 features:
   - title: Feature A
