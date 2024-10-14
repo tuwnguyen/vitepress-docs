@@ -25,6 +25,9 @@ hero:
     - theme: alt
       text: MS Ticketing App
       link: /ms-ticketing-app/
+    - theme: alt
+      text: Nestjs Fundamental
+      link: /nestjs/sec-1
 
 features:
   - title: Feature A
